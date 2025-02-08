@@ -1,5 +1,7 @@
 # Transfer Learning
 
+[Click here](./Transfer_Learning.ipynb) to go to the Jupyter Notebook.
+
 ## Summary
 
 In this project, a neural network is trained from scratch with a dataset comprised of pictures of cats and dogs.
