@@ -8,6 +8,10 @@ Then a pre-trained VGG16 neural network is downloaded and fine-tuned with the sa
 
 Then the performance of both models is compared with each other.
 
+![image](https://github.com/user-attachments/assets/6df632b3-fc76-4cd4-b468-fbd541ae457d)
+- Blue is the neural network trained from scratch
+- Orange is the fine-tuned VGG16 neural network.
+
 ## Running it on Google Colab
 
 Upload the [Transfer_Learning.ipynb](./Transfer_Learning.ipynb) to Google Colab, then click `Runtime > Run all` or press `Ctrl + F9` on your keyboard.
@@ -46,7 +50,7 @@ docker build -t ml-transfer-learning ./
 Then create and run a container from this image with the following command:
 
 ```bash
-docker run --rm --gpus all -v ./data:/home/appuser/app/data ml-transfer-learning
+docker run --rm --gpus all -v ./data:/app/data ml-transfer-learning
 ```
 
 If your card has enough VRAM, the models will be trained and used to perform a prediction at the end.
