@@ -12,7 +12,7 @@ This project features the computation of metrics that are important for Machine 
 - **Precision (Positive Predictive Value)**: Measures how many of the predicted positives are actually positive. It is useful when false positives need to be minimized, such as in spam detection.
 - **F-Score (F1-Score)**: The harmonic mean of precision and recall, balancing the trade-off between them. It is useful when both false positives and false negatives need to be considered equally.
 
-
+![image](https://github.com/user-attachments/assets/ecec337c-fab0-46fa-9660-9afe807ef11c)
 
 ## Running it on Google Colab
 
