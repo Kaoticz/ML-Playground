@@ -16,7 +16,7 @@ Then the performance of both models is compared with each other.
 
 ## Running it on Google Colab
 
-Upload the [Transfer_Learning.ipynb](./Transfer_Learning.ipynb) to Google Colab, then click `Runtime > Run all` or press `Ctrl + F9` on your keyboard.
+Upload the [Transfer_Learning.ipynb](./Transfer_Learning.ipynb) file to Google Colab, then click `Runtime > Run all` or press `Ctrl + F9` on your keyboard.
 
 Don't forget to set your runtime to a machine with a GPU, so training doesn't take too long.
 
