@@ -1,0 +1,16 @@
+audioop-lts==0.2.1
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click==8.1.8
+gTTS==2.5.4
+idna==3.10
+playsound3==2.5.2
+PyAudio==0.2.14
+pycairo==1.27.0
+PyGObject==3.50.0
+requests==2.32.3
+SpeechRecognition==3.14.1
+standard-aifc==3.13.0
+standard-chunk==3.13.0
+typing_extensions==4.12.2
+urllib3==2.3.0
