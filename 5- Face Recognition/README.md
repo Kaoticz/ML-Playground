@@ -4,7 +4,7 @@
 
 ## Summary
 
-This project features the fine-tuning of the pre-trained model ResNet50 on two Kagle datasets for face detection and classification.
+This project features the fine-tuning of the pre-trained model ResNet50 on two Kaggle datasets for face detection and classification.
 
 
 ## Running it on Google Colab
